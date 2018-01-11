@@ -1,16 +1,19 @@
-h1{
-  text-color: black;
+body{
+  background-color: black;
+  text-color: white;
+}
+.hs1{
+  text-color: green;
   font-family: monospace;
   text-align: center;
 }
-h2{
-  text-color: black;
+.hs2{
+  text-color: green;
   font-family: monospace;
   text-align: center;
 }
 .intro{
-  text-color: black;
+  text-color: white;
   font-family: monospace;
   text-align: center;
-  font-size: 17pt;
 }
