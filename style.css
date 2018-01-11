@@ -2,20 +2,20 @@ body{
   background-color: lime;
 }
 p{
-  text-color: green;
+  color: green;
 }
 .hs1{
-  text-color: green;
+  color: green;
   font-family: monospace;
   text-align: center;
 }
 .hs2{
-  text-color: green;
+  color: green;
   font-family: monospace;
   text-align: center;
 }
 .intro{
-  text-color: white;
+  color: white;
   font-family: monospace;
   text-align: center;
   font-size: 17pt;
