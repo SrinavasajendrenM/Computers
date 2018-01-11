@@ -1,16 +1,16 @@
 body{
-  background-color: lime;
+  background-color: black;
 }
 p{
-  color: green;
+  color: lime;
 }
 .hs1{
-  color: green;
+  color: lime;
   font-family: monospace;
   text-align: center;
 }
 .hs2{
-  color: green;
+  color: lime;
   font-family: monospace;
   text-align: center;
 }
