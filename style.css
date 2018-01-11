@@ -1,6 +1,8 @@
 body{
   background-color: black;
-  text-color: white;
+}
+p{
+  text-color: green;
 }
 .hs1{
   text-color: green;
