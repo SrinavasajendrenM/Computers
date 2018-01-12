@@ -1,20 +1,12 @@
 body{
   background-color: black;
   color: white;
-}
-.hs1{
-  color: lime;
-  font-family: monospace;
   text-align: center;
-}
-.hs2{
-  color: lime;
   font-family: monospace;
-  text-align: center;
+}
+.hs{
+  color: lime;
 }
 .intro{
-  color: white;
-  font-family: monospace;
-  text-align: center;
   font-size: 17pt;
 }
