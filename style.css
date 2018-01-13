@@ -2,18 +2,21 @@ body{
   background-color: black;
   color: white;
   text-align: center;
-  font-family: monospace;
+  font-family: "Roboto", monospace;
 }
 .hs{
   color: lime;
-  font-size: 50pt;
+  font-size: 40pt;
 }
 .intro{
   font-size: 24pt;
 }
 h3{
-  font-size: 24pt;
+  font-size: 47pt;
 }
 p{
-  font-size: 14pt;
+  font-size: 13.5pt;
+}
+ul{
+  font-size: 13.5pt;
 }
