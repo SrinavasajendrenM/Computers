@@ -9,5 +9,11 @@ body{
   font-size: 50pt;
 }
 .intro{
-  font-size: 17pt;
+  font-size: 24pt;
+}
+h3{
+  font-size: 24pt;
+}
+p{
+  font-size: 14;
 }
