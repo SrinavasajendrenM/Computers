@@ -30,3 +30,6 @@ ul{
 .right{
   float: right;
 }
+figure{
+	margin: 60%;
+}
