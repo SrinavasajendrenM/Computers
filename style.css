@@ -24,8 +24,8 @@ ul{
   border-color : white; 
 	border-width : medium;
 	border-style : solid;
-	padding : 5% ;
-  margin : 50% ;
+	padding : 5%;
+  margin : 100%;
 }
 .right{
   float: right;
