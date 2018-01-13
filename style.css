@@ -8,7 +8,11 @@ body{
 }
 .hs{
   color: lime;
+  padding: 50%;
+  margin: 50%;
 }
 .intro{
   font-size: 17pt;
+  padding: 50%;
+  margin: 50%;
 }
