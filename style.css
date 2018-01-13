@@ -3,7 +3,7 @@ body{
   color: white;
   text-align: center;
   font-family: "roboto", monospace;
-  line-height: 5;
+  line-height: 200%;
 }
 .hs{
   color: lime;
