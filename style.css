@@ -21,15 +21,8 @@ ul{
   font-size: 13.5pt;
 }
 .left{
-  border-color : white; 
-	border-width : medium;
-	border-style : solid;
-	padding : 5%;
-  margin : 100%;
+  float: left;
 }
 .right{
   float: right;
-}
-figure{
-	margin: 60%;
 }
