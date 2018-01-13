@@ -3,6 +3,7 @@ body{
   color: white;
   text-align: center;
   font-family: monospace;
+  padding : 50% ;
 }
 .hs{
   color: lime;
