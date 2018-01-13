@@ -21,7 +21,11 @@ ul{
   font-size: 13.5pt;
 }
 .left{
-  float: left;
+  border-color : white; 
+	border-width : medium;
+	border-style : solid;
+	padding : 5% ;
+	margin : 2% ;
 }
 .right{
   float: right;
