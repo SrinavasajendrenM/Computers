@@ -3,11 +3,10 @@ body{
   color: white;
   text-align: center;
   font-family: monospace;
-  font-size: 70pt;
 }
 .hs{
   color: lime;
-  font-size: 70pt;
+  font-size: 35pt;
 }
 .intro{
   font-size: 17pt;
