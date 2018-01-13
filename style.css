@@ -20,3 +20,9 @@ p{
 ul{
   font-size: 13.5pt;
 }
+.left{
+  float: left;
+}
+.right{
+  float: right;
+}
