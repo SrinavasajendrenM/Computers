@@ -3,16 +3,10 @@ body{
   color: white;
   text-align: center;
   font-family: monospace;
-  padding: 50%;
-  margin: 50%;
 }
 .hs{
   color: lime;
-  padding: 50%;
-  margin: 50%;
 }
 .intro{
   font-size: 17pt;
-  padding: 50%;
-  margin: 50%;
 }
