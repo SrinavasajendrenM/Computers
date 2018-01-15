@@ -3,22 +3,17 @@ body{
   color: white;
   text-align: center;
   font-family: "roboto", monospace;
-  line-height: 200%;
 }
 .hs{
   color: lime;
-  font-size: 40pt;
+  font-size: 20pt;
 }
 .intro{
-  font-size: 24pt;
+  font-size: 16pt;
 }
 h3{
-  font-size: 47pt;
+  font-size: 12pt;
 }
 p{
   font-size: 13.5pt;
 }
-ul{
-  font-size: 13.5pt;
-}
-
