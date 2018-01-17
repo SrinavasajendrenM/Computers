@@ -10,10 +10,10 @@ body{
 .intro{
   font-size: 16pt;
 }
-.wrapper {
+.wrapper{
         text-align: center; 
-    }
-.wrapper ul {
+}
+.wrapper ul{
         display: inline-block;
         margin: 0;
         padding: 0;
